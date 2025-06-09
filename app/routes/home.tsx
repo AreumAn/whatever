@@ -1,5 +1,5 @@
 import type { Route } from "./+types/home";
-import { Button } from '~/components/ui/button';
+import { Button } from '~/common/components/ui/button';
 
 export function meta({}: Route.MetaArgs) {
   return [
